@@ -66706,20 +66706,11 @@ width = 383;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "MooLahLah ROB";
-},
-{
-name = postscriptFontName;
-value = MooLahLahROB;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "F72AA8BB-7F63-4F07-AEAC-030E55A5CABB" = 1;
 };
-name = ROB;
+name = Regular;
 weightClass = Normal;
 }
 );
