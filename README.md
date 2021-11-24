@@ -2,7 +2,7 @@
 
 Need a font with bovine fun? Moo Lah Lah has that look! 
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
